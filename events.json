@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "name": "Chromefest",
+      "url": "http://www.chromefest.org/",
+      "startdate": "2018-10-26",
+      "enddate": "2018-10-28",
+      "description": "A tribute to Classic American Autos, Hot-Rods and Rock & Roll!",
+      "location": "The Entrance, NSW"
+    },
+    {
+      "name": "SteamFest",
+      "url": "https://www.steamfest.com.au/",
+      "startdate": "2019-04-13",
+      "enddate": "2019-04-14",
+      "description": "Join us at Burton Automotive Hunter Valley Steamfest to celebrate Maitland’s steam and industrial heritage. Explore an impressive collection of antique machinery and steam trains from across Australia plus live music, kids activities, market stalls and more.",
+      "location": "Maitland, NSW"
+    },
+    {
+      "name": "VIVID Sydney",
+      "url": "https://www.vividsydney.com/",
+      "startdate": "2018-05-26",
+      "enddate": "2018-06-10",
+      "description": "Vivid Sydneys iconic outdoor art-gallery illuminates the city with a mesmerising collection of light art, installations and projections.",
+      "location": "Sydney, NSW"
+    },
+    {
+      "name": "Whale Watching (North Migration)",
+      "url": "",
+      "startdate": "2018-05-01",
+      "enddate": "2018-06-30",
+      "description": "Watch the whales migrating north.",
+      "location": "Captains Cook Lookout, Copacabana"
+    },
+    {
+      "name": "Whale Watching (South Migration)",
+      "url": "",
+      "startdate": "2018-10-01",
+      "enddate": "2018-11-30",
+      "description": "Watch the whales migrating south.",
+      "location": "Captains Cook Lookout, Copacabana"
+    }
+  ]
+}
