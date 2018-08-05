@@ -39,8 +39,8 @@ function showEvents(eventjsonObj) {
     //var myPara3 = document.createElement('p');
     //var myList = document.createElement('ul');
 
-    eventHeader.className = "w3-container w3-gray";
-    eventDetail.className = "w3-container w3-light-gray w3-border";
+    eventHeader.className = "w3-container w3-light-gray";
+    eventDetail.className = "w3-container w3-light-gray";
     eventName.textContent = events[i].name;
     eventURL.setAttribute("href", events[i].url);
 	  eventURL.innerHTML = "Event Site";
@@ -55,7 +55,7 @@ function showEvents(eventjsonObj) {
     // listItem.textContent = superPowers[j];
     //  myList.appendChild(listItem);
 
-    event.className = "w3-container"
+    event.className = "w3-container w3-light-gray w3-border w3-round-large"
     eventHeader.appendChild(eventName);
     eventDetail.appendChild(eventDate);
 	  eventDetail.appendChild(eventDescription);
